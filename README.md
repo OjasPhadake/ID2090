@@ -1,6 +1,6 @@
 # ID2090
 
-## This repo contains the assignments and the solution codes of the course ID2090 taken during the Jan-May '23 semester under Prof.Gandham Phanikumar
+## This repo contains the assignments and the solution codes of the course ID2090 taken during the Jan-May '23 semester under Prof. Gandham Phanikumar
 
 ### Course contents:
 
